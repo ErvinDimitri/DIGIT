@@ -1,0 +1,6 @@
+cors:
+  allowedOrigin: "https://localhost:8000"
+  allowedMethods: '*'
+  allowedHeaders: '*'
+  allowedCredentials: '*'
+  corsConfiguration: '/**'
